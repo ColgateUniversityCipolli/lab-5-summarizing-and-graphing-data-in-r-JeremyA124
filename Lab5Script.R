@@ -43,9 +43,9 @@ columns = str_split(colnames(all.data), " ", simplify = TRUE)[-columns.not,]
 
 #Object setup for getting the box plot descriptions(i.e. Within Range, Outlying, Out of Range)
 descriptions = c()
-all.descriptions = data.frame(artists = c("All Get Out", 
-                                          "Manchster Orchestra", 
-                                          "The Front Bottoms"))
+all.descriptions = tibble(artists = c("All Get Out", 
+                                      "Manchster Orchestra", 
+                                      "The Front Bottoms"))
 
 for(column in columns) { #For each song feature 
   for(index in 1:3) { # For each Artist
@@ -61,7 +61,7 @@ in.range.count = rowSums(all.descriptions == "Within Range")
 outlying.count = rowSums(all.descriptions == "Outlying")
 out.range.count = rowSums(all.descriptions == "Out of Range")
 
-#Storing data in resulting dataset
+#Storing data in resulting data set
 summarized.data <- tibble(
   artists = c("All Get Out", 
               "Manchster Orchestra", 
@@ -103,6 +103,7 @@ ggplot(aes(x = artists,
   labs(x = "Artists",
        y = "Count of Differing Traits",
        title = "Distribution of Artists by Differing Song Traits (to Allentown)")
+
 
 
 
