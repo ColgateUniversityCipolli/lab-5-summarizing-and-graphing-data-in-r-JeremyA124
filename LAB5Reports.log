@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.26)  27 FEB 2025 11:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.26)  27 FEB 2025 17:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -505,18 +505,18 @@ Package rerunfilecheck Info: File `LAB5Reports.out' has not changed.
 (rerunfilecheck)             Checksum: AE5F5386BB36E21C53EAF44ED2CFC8FC;1561.
  ) 
 Here is how much of TeX's memory you used:
- 12309 strings out of 475178
- 197639 string characters out of 5764492
- 622713 words of memory out of 5000000
- 35122 multiletter control sequences out of 15000+600000
+ 12313 strings out of 475178
+ 197692 string characters out of 5764492
+ 622743 words of memory out of 5000000
+ 35125 multiletter control sequences out of 15000+600000
  569577 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,8n,79p,1129b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on LAB5Reports.pdf (3 pages, 369185 bytes).
+Output written on LAB5Reports.pdf (3 pages, 370725 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
  77 words of extra memory for PDF output out of 10000 (max. 10000000)
 
